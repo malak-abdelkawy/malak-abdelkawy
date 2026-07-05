@@ -66,11 +66,28 @@ I enjoy developing AI applications, exploring deep learning architectures, and s
 
 ## 🚀 Featured Projects
 
-- 🔍 **Text Similarity Detection using TF-IDF & LightGBM**
-- 😊 **Facial Expression Recognition**
-- 🖼️ **Image Processing Desktop Application**
-- 🌦️ **Weather Prediction using Machine Learning**
-- 🧠 **Deep Learning Models (CNN)**
+### 🔍 Text Similarity Detection
+A machine learning web application that measures semantic similarity between text pairs using TF-IDF vectorization and a LightGBM classifier.
+
+---
+
+### 😴 Fatigue Detection System
+A real-time fatigue detection system that monitors facial features and detects signs of drowsiness to improve driving safety.
+
+---
+
+### 🛒 Smart Store Management
+An intelligent store simulation using Reinforcement Learning to optimize decision-making and improve store performance.
+
+---
+
+### 🚖 Taxi Trip Duration Prediction
+A regression model that predicts taxi trip duration based on trip, location, and traffic-related features.
+
+---
+
+### 👥 Customer Churn Prediction
+A predictive analytics model that identifies customers who are likely to leave a service, helping businesses improve customer retention.
 
 ---
 
