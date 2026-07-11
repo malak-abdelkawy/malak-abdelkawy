@@ -7,11 +7,6 @@ I'm passionate about building intelligent systems that solve real-world problems
 
 ---
 
-## 🚀 About Me
-
-Artificial Intelligence Student passionate about building intelligent systems using real-world data.
-I enjoy developing AI applications, exploring deep learning architectures, and solving real-world problems through Machine Learning, Computer Vision, and NLP.
-
 - 🌱 Currently learning **Generative AI**, **Transformers**, and **Model Deployment**
 - 💻 Interested in AI Research & Real-world Applications
 - 🚀 Always learning new technologies and improving my skills
