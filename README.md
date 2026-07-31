@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Malak Abdelkawy
 
 ### 🎓 Artificial Intelligence Student
-### 💻 Machine Learning | Deep Learning | Computer Vision Enthusiast
+### 💻 Machine Learning | Deep Learning | NLP Enthusiast
 
 I'm passionate about building intelligent systems that solve real-world problems using Artificial Intelligence. I enjoy working on Machine Learning, Deep Learning, Computer Vision, and NLP projects while continuously improving my technical skills.
 
